@@ -4,6 +4,15 @@
 
 DESCRIPTION
 
+This is a modified version of RTKLIB 2.4.3:
+
+A.K 2018/01/20 add a metopt option in the config file
+A.K 2018/02/10 add GPT function
+A.K 2018/02/13 add GPT2 function, based on a 5 x 5 degree external grid file ('gpt2_5.grd')
+A.K 2018/01/14 fix a bug in reading IGS antex files (now differentiate between Glonass and GPS) 
+
+
+-------------------------------------------------
 The development branch for RTKLIB 2.4.3.
 
 
