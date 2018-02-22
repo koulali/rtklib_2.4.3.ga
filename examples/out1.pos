@@ -1,0 +1,12 @@
+% program   : RTKLIB ver.2.4.3
+% inp file  : str20350.17o
+% inp file  : tidb0350.17o
+% inp file  : brdc0350.17n
+% inp file  : igs19346.sp3
+% inp file  : igs19346.clk
+% obs start : 2017/02/04 00:00:00.0 GPST (week1934 518400.0s)
+% obs end   : 2017/02/04 23:59:30.0 GPST (week1934 604770.0s)
+% ref pos   :  6378137.0000         0.0000         0.0000
+%
+% (x/y/z-ecef=WGS84,Q=1:fix,2:float,3:sbas,4:dgps,5:single,6:ppp,ns=# of satellites)
+%  GPST                      x-ecef(m)      y-ecef(m)      z-ecef(m)   Q  ns   sdx(m)   sdy(m)   sdz(m)  sdxy(m)  sdyz(m)  sdzx(m) age(s)  ratio
